@@ -4,12 +4,12 @@ using System.Collections.Generic;
 /*
 =============================================================================
 EXCEEDING REQUIREMENTS STATEMENT:
-To exceed the baseline requirements and achieve 100%, this program:
-1. Implements a library (list) of multiple scriptures containing both single
+For me to exceed the baseline requirements and achieve 100%, this program:
+1. I implements a library (list) of multiple scriptures containing both single
    and multi-verse formats.
 2. Randomly selects one scripture from the library at runtime to offer a 
    varied study experience.
-3. Implements the stretch challenge of keeping track of and only selecting 
+3. I implements the stretch challenge of keeping track of and only selecting 
    words that are not already hidden. This avoids redundant random operations 
    and guarantees a smooth, predictable progression.
 =============================================================================
